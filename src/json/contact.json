@@ -1,0 +1,17 @@
+[
+    {
+        "title" : "Instagram",
+        "path" : "@kopi.kuy",
+        "img" : "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726084487/Kopi-Kuy-Assets/ig.png"
+    },
+    {
+        "title" : "Mail",
+        "path" : "hello@kopikuy.com",
+        "img" : "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726084487/Kopi-Kuy-Assets/mail.png"
+    },
+    {
+        "title" : "Phone",
+        "path" : "+62 (812) 9046 5034",
+        "img" : "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726084487/Kopi-Kuy-Assets/phone.png"
+    }
+]

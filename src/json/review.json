@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Bagas Renaldo",
+        "content": "Tempat nya nyaman sekali pasti kalo kalian dateng betah ... selain tempat yang nyaman lalu pelayanan nya good banget... dan kalian yang datang ke kopi kuy jangan lewatkan permainan yang disediakan oleh kopi kuy , banyak banget game nya!",
+        "role": "Dosen",
+        "img": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726081833/Kopi-Kuy-Assets/bagas-renaldo.jpg"
+    },
+    {
+        "name": "Rena Oktaviana",
+        "content": "Asik buat santai sm tmn2, tempatnya nyaman dan yg bikin seru banyak game2nya yg bs dimainkan bareng tmn2 atau saudara, menunya enak2, pokoknya recomend banget deh tempatnya wajib coba guys!!! Pelayanannya ramah banget 🤗.",
+        "role": "Karyawan Swasta",
+        "img": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726081832/Kopi-Kuy-Assets/rena-oktaviana.jpg"
+    },
+    {
+        "name": "Clara",
+        "content": "Perdana kesini langsung merasa cocok dari segi tempat dan rasa. Baristanya ramah dan pelayanannya maksimal, tidak sungkan bertanya keinginan pengunjung.",
+        "role": "Mahasiswa",
+        "img": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726081831/Kopi-Kuy-Assets/clara.jpg"
+    },
+    {
+        "name": "Lukas",
+        "content": "Sudah beberapa kali mampir ke sini dan nggak pernah kecewa! Tempatnya selalu nyaman, dengan suasana yang pas buat santai atau kerja. Ini salah satu tempat ngopi favorit saya, dan pasti bakal terus balik!",
+        "role": "Programer",
+        "img": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726081832/Kopi-Kuy-Assets/lukas.jpg"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "title": "Espresso",
+        "img": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726078316/Kopi-Kuy-Assets/espresso.jpg"
+    },
+    {
+        "title": "Latte",
+        "img": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726078315/Kopi-Kuy-Assets/lattte.jpg"
+    },
+    {
+        "title": "Cappucino",
+        "img": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726078315/Kopi-Kuy-Assets/cappucino.jpg"
+    },
+    {
+        "title": "Kopi Susu",
+        "img": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726078315/Kopi-Kuy-Assets/kopi-susu.jpg"
+    }
+]

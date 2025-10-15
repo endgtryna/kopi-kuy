@@ -1,0 +1,27 @@
+[
+    {
+        "name": "Riki Steven",
+        "role": "Founder",
+        "img": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726080988/Kopi-Kuy-Assets/riki-steven.jpg"
+    },
+    {
+        "name": "Andi Asraf",
+        "role": "Head of Marketing",
+        "img": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726080987/Kopi-Kuy-Assets/andi-asraf.jpg"
+    },
+    {
+        "name": "Angelina Felly",
+        "role": "Head of Barista",
+        "img": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726080988/Kopi-Kuy-Assets/angelina-felly.jpg"
+    },
+    {
+        "name": "Sarah Chou",
+        "role": "Barista",
+        "img": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726080987/Kopi-Kuy-Assets/sarah-chou.jpg"
+    },
+    {
+        "name": "Marteen",
+        "role": "Barista",
+        "img": "https://res.cloudinary.com/dbzdxsmvy/image/upload/v1726080987/Kopi-Kuy-Assets/marteen.jpg"
+    }
+]

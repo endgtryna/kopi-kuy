@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Kopi Robusta",
+        "options": [
+            { "size": 100, "price": 15000 },
+            { "size": 500, "price": 70000 },
+            { "size": 1000, "price": 110000 }
+        ]
+    },
+    {
+        "name": "Kopi Arabica",
+        "options": [
+            { "size": 100, "price": 18000 },
+            { "size": 500, "price": 85000 },
+            { "size": 1000, "price": 145000 }
+        ]
+    },
+    {
+        "name": "Kopi Gayo",
+        "options": [
+            { "size": 100, "price": 20000 },
+            { "size": 500, "price": 90000 },
+            { "size": 1000, "price": 155000 }
+        ]
+    },
+    {
+        "name": "Kopi Toraja",
+        "options": [
+            { "size": 100, "price": 22000 },
+            { "size": 500, "price": 95000 },
+            { "size": 1000, "price": 160000 }
+        ]
+    },
+    {
+        "name": "Kopi Luwak",
+        "options": [
+            { "size": 100, "price": 90000 },
+            { "size": 500, "price": 420000 },
+            { "size": 1000, "price": 800000 }
+        ]
+    },
+    {
+        "name": "Kopi Blend Kuy",
+        "options": [
+            { "size": 100, "price": 17000 },
+            { "size": 500, "price": 80000 },
+            { "size": 1000, "price": 135000 }
+        ]
+    },
+    {
+        "name": "Kopi Bali Kintamani",
+        "options": [
+            { "size": 100, "price": 23000 },
+            { "size": 500, "price": 100000 },
+            { "size": 1000, "price": 165000 }
+        ]
+    },
+    {
+        "name": "Kopi Flores Bajawa",
+        "options": [
+            { "size": 100, "price": 21000 },
+            { "size": 500, "price": 95000 },
+            { "size": 1000, "price": 160000 }
+        ]
+    },
+    {
+        "name": "Kopi Sumatra Mandheling",
+        "options": [
+            { "size": 100, "price": 24000 },
+            { "size": 500, "price": 105000 },
+            { "size": 1000, "price": 170000 }
+        ]
+    },
+    {
+        "name": "Kopi Aceh Linge",
+        "options": [
+            { "size": 100, "price": 20000 },
+            { "size": 500, "price": 92000 },
+            { "size": 1000, "price": 150000 }
+        ]
+    },
+    {
+        "name": "Kopi Papua Wamena",
+        "options": [
+            { "size": 100, "price": 25000 },
+            { "size": 500, "price": 110000 },
+            { "size": 1000, "price": 180000 }
+        ]
+    },
+    {
+        "name": "Kopi House Blend Espresso",
+        "options": [
+            { "size": 100, "price": 16000 },
+            { "size": 500, "price": 75000 },
+            { "size": 1000, "price": 125000 }
+        ]
+    }
+]
