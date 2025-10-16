@@ -1,13 +1,9 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import products from '../json/product.json';
-import { faCartPlus, faMinus, faPlus, faWeightHanging } from '@fortawesome/free-solid-svg-icons';
+import { faWeightHanging } from '@fortawesome/free-solid-svg-icons';
 import { useState } from 'react';
-import { toast } from 'react-toastify';
 
 const Catalogue = () => {
-    // State qty sekarang disimpan dalam array untuk setiap produk
-    const [quantities, setQuantities] = useState<number[]>(products.map(() => 1));
-
     const [selectedOptions, setSelectedOptions] = useState(
         products.map(product => ({
             size: product.options[0].size,
@@ -25,47 +21,6 @@ const Catalogue = () => {
             };
             setSelectedOptions(updatedOptions);
         }
-    };
-
-    const handleQtyChange = (index: number, increment: boolean) => {
-        const updatedQuantities = [...quantities];
-        updatedQuantities[index] = increment
-            ? updatedQuantities[index] + 1
-            : Math.max(1, updatedQuantities[index] - 1);
-        setQuantities(updatedQuantities);
-    };
-
-    const handleCart = (index: number) => {
-        const productToAdd = {
-            name: products[index].name,
-            size: selectedOptions[index].size,
-            price: selectedOptions[index].price,
-            qty: quantities[index], // Tambahkan qty ke dalam objek yang akan disimpan di keranjang
-        };
-
-        const existingCart = JSON.parse(localStorage.getItem('cart') || '[]');
-
-        const updatedCart = [...existingCart, productToAdd];
-
-        localStorage.setItem('cart', JSON.stringify(updatedCart));
-
-        toast.success("Berhasil menambahkan ke keranjang!", {
-            position: 'bottom-right',
-            autoClose: 3000,
-            hideProgressBar: false,
-            closeOnClick: true,
-            pauseOnHover: true,
-            draggable: false,
-            progress: undefined,
-            closeButton: false,
-            style: {
-                backgroundColor: '#263E52',
-                color: '#ffffff',
-            },
-            progressStyle: {
-                backgroundColor: '#22c55e',
-            },
-        });
     };
 
     return (
